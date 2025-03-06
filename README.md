@@ -45,9 +45,9 @@ The project utilizes **K-Means Clustering** for customer segmentation and **Rand
 - **Tableau** (Visualization & Dashboarding)
 
 ## Results 
-✅ **Identified key factors affecting passenger satisfaction**.  
-✅ **Improved satisfaction rates by 21.7% through personalization**.  
-✅ **Increased revenue potential through strategic upselling**.  
-✅ **Provided a scalable framework for airline customer experience enhancement**.  
+**Identified key factors affecting passenger satisfaction**.  
+**Improved satisfaction rates by 21.7% through personalization**.  
+**Increased revenue potential through strategic upselling**.  
+**Provided a scalable framework for airline customer experience enhancement**.  
 
 
